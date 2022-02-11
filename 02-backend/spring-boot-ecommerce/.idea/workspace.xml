@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8500233b-c216-4f44-b8e3-e90a6aed0984" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/burakcode/ecommerce/SpringBootEcommerceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/burakcode/ecommerce/SpringBootEcommerceApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
